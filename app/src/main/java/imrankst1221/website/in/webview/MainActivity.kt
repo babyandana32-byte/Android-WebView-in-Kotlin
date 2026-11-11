@@ -1,4 +1,4 @@
-package imrankst1221.website_in_webview
+package imrankst1221.website.in.webview
 
 import android.Manifest
 import android.annotation.SuppressLint
